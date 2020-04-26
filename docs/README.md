@@ -4,7 +4,7 @@ OSDE blog
 
 Other blogs
 
-- [aiml.wordpress.com](https://aidlml.wordpress.com)
+- **[aiml.wordpress.com](https://aidlml.wordpress.com)**
 - [edutain.wordpress.com](https://edutain8.wordpress.com)
 - [embed.wordpress.com](https://embed8.wordpress.com)
 - [vietnam.wordpress.com](https://vietnam.wordpress.com)
