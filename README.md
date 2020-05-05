@@ -1,3 +1,1 @@
-READ
-READ
-READ
+website is served from the docs dir
